@@ -8,3 +8,13 @@ N:\Classes\Sem1-Fall2019\ICS3U Programming\LeGault, Ethan (s256202)\Introduction
 N:\Classes\Sem1-Fall2019\ICS3U Programming\LeGault, Ethan (s256202)\Introduction\ProgramMenuForm\ProgramMenuFormEthanL\obj\Debug\ProgramMenuFormEthanL.csproj.CoreCompileInputs.cache
 N:\Classes\Sem1-Fall2019\ICS3U Programming\LeGault, Ethan (s256202)\Introduction\ProgramMenuForm\ProgramMenuFormEthanL\obj\Debug\ProgramMenuFormEthanL.exe
 N:\Classes\Sem1-Fall2019\ICS3U Programming\LeGault, Ethan (s256202)\Introduction\ProgramMenuForm\ProgramMenuFormEthanL\obj\Debug\ProgramMenuFormEthanL.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Introduction\ProgramMenuForm\ProgramMenuFormEthanL\bin\Debug\ProgramMenuFormEthanL.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Introduction\ProgramMenuForm\ProgramMenuFormEthanL\bin\Debug\ProgramMenuFormEthanL.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Introduction\ProgramMenuForm\ProgramMenuFormEthanL\bin\Debug\ProgramMenuFormEthanL.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Introduction\ProgramMenuForm\ProgramMenuFormEthanL\obj\Debug\ProgramMenuFormEthanL.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Introduction\ProgramMenuForm\ProgramMenuFormEthanL\obj\Debug\ProgramMenuFormEthanL.frmProgramMenu.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Introduction\ProgramMenuForm\ProgramMenuFormEthanL\obj\Debug\ProgramMenuFormEthanL.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Introduction\ProgramMenuForm\ProgramMenuFormEthanL\obj\Debug\ProgramMenuFormEthanL.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Introduction\ProgramMenuForm\ProgramMenuFormEthanL\obj\Debug\ProgramMenuFormEthanL.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Introduction\ProgramMenuForm\ProgramMenuFormEthanL\obj\Debug\ProgramMenuFormEthanL.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Introduction\ProgramMenuForm\ProgramMenuFormEthanL\obj\Debug\ProgramMenuFormEthanL.pdb
