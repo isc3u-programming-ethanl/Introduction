@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ * Created by: Ethan L
+ * Created on: September 9, 2019
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #5 - Hello, World! International
+ * This program displays 4 radio buttons that when clicked on each will change "Hello, World!" to the language of the button
+*/
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
