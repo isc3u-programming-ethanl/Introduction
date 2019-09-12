@@ -1,4 +1,10 @@
-﻿using System;
+﻿/*
+ * Created by: Ethan L
+ * Created on: September 10, 2019
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #7 - PerAreaVol
+ * This program calculates the area of a circle, the perimeter of a rectangle, and the volume of a sphere
+*/using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
